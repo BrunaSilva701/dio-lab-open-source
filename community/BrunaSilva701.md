@@ -16,8 +16,6 @@
 ## GitHub Stars
 ![brunasilva701 stats](https://github-readme-stats.vercel.app/api?username=brunasilva701&theme=gruvboxtransparent&show_icons=true)
 
-
-## Projetos
 ## Projetos
 
 <table>
